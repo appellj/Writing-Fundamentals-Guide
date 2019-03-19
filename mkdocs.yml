@@ -1,1 +1,14 @@
 site_name: Writing Fundamentals Guide
+nav:
+- Home: 'index.md'
+- Introduction: 'introduction.md'
+- '1: Essentials of Tech Writing': 'lesson1-essentials.md'
+- '2: Using Commas': 'lesson2-commas.md'
+- '3: More on Commas': 'lesson3-morecommas.md'
+- '4: Hyphens and Dashes': 'lesson4-hyphens.md'
+- '5: Coordinate vs. Cumulative Adjectives': 'lesson5-coordinateadjs.md'
+- '6: Prepositions, Pronouns, and Particles': 'lesson6-preps.md'
+- '7: Verbals': 'lesson7-verbals.md'
+- '8: Collective Nouns': 'lesson8-collectivenouns.md'
+- 'Appendix A: Grammar and Punctuation Basics': 'appxA-grammar.md'
+- 'Appendix B: Important Writing Tips': 'appxB-importanttips.md'
