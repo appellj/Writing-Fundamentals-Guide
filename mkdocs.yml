@@ -1,5 +1,6 @@
 site_name: Writing Fundamentals Guide
-nav:
+docs_dir: /docs
+pages:
 - Home: 'index.md'
 - Introduction: 'introduction.md'
 - '1: Essentials of Tech Writing': 'lesson1-essentials.md'
