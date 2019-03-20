@@ -13,3 +13,4 @@ pages:
 - '8: Collective Nouns': 'lesson8-collectivenouns.md'
 - 'Appendix A: Grammar and Punctuation Basics': 'appxA-grammar.md'
 - 'Appendix B: Important Writing Tips': 'appxB-importanttips.md'
+theme: readthedocs
