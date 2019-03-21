@@ -2,7 +2,7 @@ site_name: Writing Fundamentals Guide
 docs_dir: docs
 pages:
 - 'Home': 'index.md'
-- 'Introduction': 'introduction.md'
+- 'Introduction: The Hiccup Rule': 'introduction.md'
 - '1: Essentials of Tech Writing': 'lesson1-essentials.md'
 - '2: Using Commas': 'lesson2-commas.md'
 - '3: More on Commas': 'lesson3-morecommas.md'
