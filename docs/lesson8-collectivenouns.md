@@ -1,167 +1,75 @@
 # Lesson 8: Collective Nouns
 
-In this lesson, we will cover prepositional phrases, how to use pronouns correctly within them, and how to identify when a preposition is actually a particle (and why you might care). 
+**Collective nouns** provide a way to refer to a group as a single unit. In fact, “group” is an excellent example of a collective noun; when you refer to a group, you are referring to all members of that group at once as a single unit. Other collective nouns you’ll run into frequently are: team, data, network, family, and company.
 
-**Note:** It’s infuriating to me that prepositions, pronouns, particles, and participles (which are discussed in the next lesson) all start with “p”, because it makes it very easy to get them mixed up in my head. As you’re reading through this guide, pay close attention to any word that starts with “p” to make sure you know which one we’re discussing.   
-# Prepositions
-A **prepositional phrase** provides additional information such as when, where, and how. It always starts with a **preposition** like one of the following words:
+Because the collective noun is being treated as a single unit, use singular verbs with it. 
 
-* in
-* of
-* to
-* with
-* on
-* after
-* for
+✓ Correct:
 
-(For a list of more prepositions, go [here](https://www.englishclub.com/grammar/prepositions-list.htm).)
+> The group **is going** to the event.
 
-For example, consider this simple sentence:
-
-> I drove.
-
-If you want to say **where** you drove, add a prepositional phrase:
-
-> I drove **to the store**.
-
-You could also use a prepositional phrase to say **when** you drove:
-
-> I drove to the store **after midnight**.
-
-If you want to say more about **which route** you drove, put the prepositional phrase after the verb “drove”:
-
-> I drove **on highway 101** to the store.
-
-If you want to say more about **where** the store is located, put the prepositional phrase after the noun “store”:
-
-> I drove to the store **on Broadway**.
-
-Notice that you’ve now nested a prepositional phrase within a prepositional phrase, which is perfectly fine. You can use several prepositional phrases to add lots of details: 
-
-> [After midnight], I drove [with Sam] [on highway 101] [to the store] [on Broadway].
-
-A simple prepositional phrase has just a preposition (after, with, on, to) followed by a noun (midnight, Sam, highway 101, store, Broadway) and any modifiers (e.g., sleepy Sam, busy store). 
-
-If the words following the preposition include a subject and verb, though, the preposition is called a **subordinate conjunction**, and the phrase is actually a **subordinate clause** (also called a “dependent clause”). 
-
-For example, here are two sentences that use “after”:
-
-> I drove **after the show**. 
-
-(“after” is a preposition that starts a prepositional phrase) 
-
-> I drove **after Sam fell asleep**. 
-
-(“after” is a subordinate conjunction that starts a subordinate clause)
-
-In both cases, use the same comma rules as described in [Separating a dependent clause from an independent clause](https://github.com/appellj/Writing-Fundamentals-Guide/wiki/Lesson-2:-Using-Commas#separating-a-dependent-clause-from-an-independent-clause). In short, if the prepositional phrase/subordinate clause appears before the main part of the sentence, you insert a comma, whereas you don’t use a comma if it appears at the end of the sentence. (That sentence I just wrote provides examples of both.) Here are more examples:
-
-> **After midnight**, I drove. 
-
-(prep. phrase is at the beginning, so insert a comma)
-
-> I drove **after midnight**. 
-
-(prep. phrase is at the end, so no comma)
-
-> **After Sam fell asleep**, I drove. 
-
-(subordinate clause is at the beginning, so insert a comma)
-
-> I drove **after Sam fell asleep**. 
-
-(subordinate clause. is at the end, so no comma)
-## Pronouns
-In prepositional phrases, the words that come after the preposition make up the object of the preposition. With a subordinate conjunction, however, the words that follow it make up a subordinate clause, which must include (at minimum) a subject and verb. Why does it matter if the pronoun is a preposition or a subordinate conjunction? Let’s look at an example:
-
-> I’m going with **whomever**. 
-
-> I’m going with **whoever wants to go**.
-
-In the first sentence, you don’t have a verb after the preposition (“with”), so it’s a prepositional phrase, and the pronoun (“whomever”) that follows the preposition must be an object. This means that if you’re using a pronoun like “whoever”, you have to use the object form “whomever”, not the subject form “whoever”.
-
-In the second sentence, however, you have a verb (“wants”), so it’s a subordinate clause, not a prepositional phrase. In this case, you use the subject form “whoever” instead of the object form “whomever”. 
-
-This causes a lot of confusion. I see this incorrect construction all the time:
+> The network of servers **is offline**.
 
 ✘ Incorrect:
 
-> I’m going with **whomever wants** to go.
+> The group **are going** to the event.
 
-This is wrong because “whomever” cannot be the subject of the verb “wants”. It would be like saying “Her wants to go” instead of “She wants to go.” You need the subject form “whoever” instead. 
+> The network of servers **are offline**.
 
-Now, let’s make things even more confusing:
+When you follow a collective noun (“network”) with a prepositional phrase that defines what’s in the collective noun (“of servers”), it can be tricky to remember to use the singular verb (“is offline” instead of “are offline”). Your ear may cling to the last word it heard (“servers”) and think “servers is down” sounds wrong. But “servers” is the object of the prepositional phrase, NOT the subject of the sentence, and it’s the subject of the sentence that the verb has to agree with.
 
-> I’m going with **whomever I want**.
+If you see a prepositional phrase, take a look at what the sentence would look like without it, and you’ll have an easier time figuring out whether to use the singular or plural. For example:
 
-This sentence is correct! Why? Because in this subordinate clause, the subject is “I” and the verb is “want”. It also has an object (“whomever”), which appears at the beginning of the subordinate clause. If you were writing the clause as a sentence, it would be:
+> The network of servers is down.
 
-> I want whomever.
+You might wonder, shouldn’t it be “servers are down”? Let’s remove the prepositional phrase:
 
-But when the clause is subordinate, the object comes first, which can make it harder to spot the subject vs. the object:
+> The network [of servers] is down -> The network is down.
 
-> I’m going with whomever I want.
+Could I say “The network are down?” No! The subject is “network”, not “servers” (“servers” is the object of the preposition), and the verb must agree with the subject, so it should be “The network is down.” So “The network of servers is down” is correct.
 
-Take another example:
+Of course, English is crazy, so there’s an exception: if you are putting the emphasis on the individuals in a group, you can use the plural verb. For example:
 
-> I’m addressing the letter **to whom it may concern**.
+> After the event, the Tech Content team were trying to find their cars.
 
-This is a subordinate clause with a subject (“it”), verb (“may concern”), and object (“whom”). 
+This is the equivalent of saying:
 
-Here’s another construction that causes problems all the time:
+> After the event, the members of the Tech Content team were trying to find their cars.
 
-> **Shiraz and I** took the candy. 
+In this case, it makes sense to use the plural verb, because using the singular verb would make it sound like the cars are owned by the Tech Content team, not by the individuals on the team:
 
-> She gave the candy to **Shiraz and me**.
+> After the event, the Tech Content team was trying to find its cars.
 
-In the first sentence, “Shiraz and I” is the subject of the sentence, so you use the subject form of the pronoun “I”. But in the second sentence, “Shiraz and me” is the object of the preposition “to”, so you use the object form and write “me” instead. You could also say:
+However, I recommend you avoid this awkwardness entirely and refer to the individuals by adding “members of” whenever you’re in this situation.  
 
-> She gave **Shiraz and me** the candy.
+Removing the prepositional phrase to help you determine whether to use the singular or plural verb is similar to a trick you can use when you’re trying to figure out whether to use the subject or object version of a pronoun, such as “and I” or “and me”.
 
-In this case, “Shiraz and me” is the **indirect object**, so you use the object form “me”. 
+For example:
 
-People often say “Me and Shiraz took the candy” or “Shiraz and me took the candy”, which are both wrong and make my ears hurt. But it’s even more painful when people try to sound correct and use the subject when they should be using the object, such as “She gave the candy to Shiraz and I”. (No, she didn’t. She gave it to Shiraz and **me**.) 
+> **Sam and I** went to the market.
 
-So how can you remember all this? First, identify the subject by asking yourself who or what is doing the action. You will then have a much easier time figuring out which word, if any, is the object. 
+> He gave the feedback to **Sam and me**.
 
-For example, in the candy sentence, here’s what’s going on in my head: 
+The first sentence is pretty easy. Get rid of “Sam and”, and you’ll quickly see that “I went to the market” is correct, not “Me went to the market.” So you know it’s “Sam and I went to the market.”
 
-“Okay, she’s giving the candy, so ‘She’ is the subject of the sentence and ‘gave’ is the verb. What did she give? The candy. So that’s the object of the sentence. Now I see a preposition (‘to’), so what follows is either a prepositional phrase or a subordinate clause. I just see nouns, no verbs, so this is a prepositional phrase, which means I need to use the object form ‘me’. The pronouns ‘I’ and ‘me’ always come after the other person (‘Shiraz and me’, never ‘me and Shiraz’), so the sentence is: She gave the candy to Shiraz and me.” 
-## Particles
-Here’s an interesting point that won’t usually affect your writing but is nice to know: sometimes words that look like prepositions are actually part of the verb. These are called **particles**. For example, in the verb “sign in”, “in” is a particle, not a preposition, and is an important part of the verb. Consider the differences in these two sentences:
+But shouldn’t it also be “Sam and I” in the second sentence? If you pull out “Sam and” again, you can try it both ways:
 
-> Be sure to **sign in** before you continue. 
+✓ Correct:
 
-(“in” is a particle, because it’s a part of the verb “sign in”) 
+> He gave the feedback to me. 
 
-> The sign **in the office** welcomes visitors. 
+✘ Incorrect:
 
-(“in” is a preposition that starts the prepositional phrase “in the office”)
+> He gave the feedback to I. 
 
-The main reason you might care about identifying a particle vs. a preposition is if you’re tempted to move the parts of the sentence around. The particle must not be separated from the verb, whereas the prepositional phrase can be moved. For example, you can say:
+Why? Because a prepositional phrase takes an object, not a subject, so you must use the object form “me”. Therefore, “He gave the feedback to me” is the correct sentence, and if you add “Sam and” back in to the sentence, you get “He gave the feedback to Sam and me.”
 
-> In the office, the sign welcomes visitors.
-
-But you cannot say:
-
-> In before you continue, be sure to sign.
-
-Nor can you say:
-
-> Before you continue, in be sure to sign. 
-
-Even [Yoda](http://www.quickanddirtytips.com/education/grammar/yoda-grammar) doesn’t do this. (Awkward his speech is. Yes. Yes! Yet wise Yoda is.) 
-
-## Summary
-* Prepositional phrases provide extra information such as when, where, and how. 
-* When using pronouns in a prepositional phrase, use the object form of the pronoun (such as “to me”, “with whomever”).
-* When using pronouns in a subordinate clause, be sure to identify the subject and object (if any) in the clause and use the correct form of the pronoun.  
-* Particles are prepositions that are part of the verb (such as “in” in “log in”) and must not be moved to a different spot in the sentence.  
-## Additional resources
-* https://www.englishclub.com/grammar/prepositions-list.htm
-* http://www.chompchomp.com/terms/preposition.htm
-* https://webapps.towson.edu/ows/prepositions.htm
-* http://www.quickanddirtytips.com/education/grammar/yoda-grammar
-## 📘Assignment
-1. Write two sentences with prepositional phrases that include pronouns (don’t use the same preposition in both sentences).
-1. Write two sentences with subordinate clauses that include pronouns (choose two unique subordinate conjunctions that you didn’t use as pronouns in the previous task).
+These little mental tricks of pulling out extra information from the sentence to get down to the core components of subject, verb, and object can be very useful for figuring out whether to use the singular vs. plural of a verb and the subject vs. object of a noun.
+# Summary
+Collective nouns provide a way to refer to a group as a single unit. Typically, use the singular verb form with collective nouns. The exception is when you want to differentiate amongst the members of the group, but because this can be subtle and confusing, it’s usually best to write around this by adding “members of” before the collective noun or “members” after it. 
+# Additional resources
+http://www.chompchomp.com/terms/collectivenoun.htm
+# 📘Assignment
+1. Write two sentences using collective nouns with singular verbs.
+1. Write one sentence using a collective noun with a plural verb, followed by an explanation of why the plural makes sense instead of the singular in this context.
+1. Provide an alternative version of the sentence you wrote in question 2 that avoids using the collective noun as the subject when you want to use a plural verb (e.g., insert “members of” before the collective noun or insert “members” after it).
