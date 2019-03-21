@@ -1,167 +1,141 @@
 # Lesson 7: Verbals
 
-In this lesson, we will cover prepositional phrases, how to use pronouns correctly within them, and how to identify when a preposition is actually a particle (and why you might care). 
+Most of us are familiar with verbs. They describe the action or state of being. For example: 
 
-**Note:** It’s infuriating to me that prepositions, pronouns, particles, and participles (which are discussed in the next lesson) all start with “p”, because it makes it very easy to get them mixed up in my head. As you’re reading through this guide, pay close attention to any word that starts with “p” to make sure you know which one we’re discussing.   
-## Prepositions
-A **prepositional phrase** provides additional information such as when, where, and how. It always starts with a **preposition** like one of the following words:
+> I **run**. 
 
-* in
-* of
-* to
-* with
-* on
-* after
-* for
+(“I” is the subject, “run” is the verb) 
 
-(For a list of more prepositions, go [here](https://www.englishclub.com/grammar/prepositions-list.htm).)
+> They **crashed**. 
 
-For example, consider this simple sentence:
+(“They” is the subject, “crashed” is the verb) 
 
-> I drove.
+> I **think**, therefore I **am**. 
 
-If you want to say **where** you drove, add a prepositional phrase:
+(“I” is the subject in each clause, “think” and “am” are the verbs) 
 
-> I drove **to the store**.
+> The plane **is flying** overhead. 
 
-You could also use a prepositional phrase to say **when** you drove:
+(“plane” is the subject, “flying” is the verb preceded by the helper verb “is”)
 
-> I drove to the store **after midnight**.
+But sometimes, a verb is not a verb!
 
-If you want to say more about **which route** you drove, put the prepositional phrase after the verb “drove”:
+A **verbal** is a word formed from a verb that functions as a noun, adjective, or adverb. There are three types of verbals:
 
-> I drove **on highway 101** to the store.
+* Gerunds
+* Participles
+* Infinitives
 
-If you want to say more about **where** the store is located, put the prepositional phrase after the noun “store”:
+# Gerunds
+**Gerunds** end in “-ing” and act as a **noun**:
 
-> I drove to the store **on Broadway**.
+> **Flying** is my favorite pastime. 
 
-Notice that you’ve now nested a prepositional phrase within a prepositional phrase, which is perfectly fine. You can use several prepositional phrases to add lots of details: 
+(“Flying” is the subject of the sentence) 
 
-> [After midnight], I drove [with Sam] [on highway 101] [to the store] [on Broadway].
+> I love **running**. 
 
-A simple prepositional phrase has just a preposition (after, with, on, to) followed by a noun (midnight, Sam, highway 101, store, Broadway) and any modifiers (e.g., sleepy Sam, busy store). 
+(“running” is the direct object of the sentence)
+# Participles
+**Participles** act as **adjectives**. There are two types of participles: **present** and **past**. 
 
-If the words following the preposition include a subject and verb, though, the preposition is called a **subordinate conjunction**, and the phrase is actually a **subordinate clause** (also called a “dependent clause”). 
+**Present participles**, like gerunds, end in **“-ing”**, but they’re used as adjectives, not nouns:
 
-For example, here are two sentences that use “after”:
+> The **flying** squirrel was amazing. 
 
-> I drove **after the show**. 
+(“flying” is an adjective modifying “squirrel”) 
 
-(“after” is a preposition that starts a prepositional phrase) 
+> The squirrel **flying across the sky** was amazing. 
 
-> I drove **after Sam fell asleep**. 
+(“flying across the sky” is a present participial phrase acting as an adjective modifying “squirrel”)
 
-(“after” is a subordinate conjunction that starts a subordinate clause)
+**Past participles** usually end in **“-ed”** or **“-en”**:
 
-In both cases, use the same comma rules as described in [Separating a dependent clause from an independent clause](https://github.com/appellj/Writing-Fundamentals-Guide/wiki/Lesson-2:-Using-Commas#separating-a-dependent-clause-from-an-independent-clause). In short, if the prepositional phrase/subordinate clause appears before the main part of the sentence, you insert a comma, whereas you don’t use a comma if it appears at the end of the sentence. (That sentence I just wrote provides examples of both.) Here are more examples:
+The **crashed** server made us frantic. 
+(“crashed” is an adjective modifying “server”) 
 
-> **After midnight**, I drove. 
+The **broken** windows leaked a lot of rain. 
+(“broken” is an adjective modifying “windows”)
 
-(prep. phrase is at the beginning, so insert a comma)
+Don’t confuse gerunds and present participles with verbs in the progressive tense, which come after a form of the verb “to be”:
 
-> I drove **after midnight**. 
+> The plane **is flying** overhead. (verb) 
 
-(prep. phrase is at the end, so no comma)
+> The cat **was running** across the lawn. (verb)
 
-> **After Sam fell asleep**, I drove. 
+Don’t confuse past participles with verbs in the passive voice, which start with was/were:
 
-(subordinate clause is at the beginning, so insert a comma)
+> The windshield **was cracked**. (verb) 
 
-> I drove **after Sam fell asleep**. 
+> The windows **were broken**. (verb)
+# Infinitives
+**Infinitives start with “to”** and end with the simple present form of a verb, such as “to fly” and “to crack”. They can act as nouns, adjectives, or adverbs.
+## Nouns
+> **To live** is **to adjust**. 
 
-(subordinate clause. is at the end, so no comma)
-## Pronouns
-In prepositional phrases, the words that come after the preposition make up the object of the preposition. With a subordinate conjunction, however, the words that follow it make up a subordinate clause, which must include (at minimum) a subject and verb. Why does it matter if the pronoun is a preposition or a subordinate conjunction? Let’s look at an example:
+> I want **to go**. 
 
-> I’m going with **whomever**. 
+> I love **to fly**.
 
-> I’m going with **whoever wants to go**.
+## Adjectives
+> This is the best time **to start**. 
 
-In the first sentence, you don’t have a verb after the preposition (“with”), so it’s a prepositional phrase, and the pronoun (“whomever”) that follows the preposition must be an object. This means that if you’re using a pronoun like “whoever”, you have to use the object form “whomever”, not the subject form “whoever”.
+(modifies “time”) 
 
-In the second sentence, however, you have a verb (“wants”), so it’s a subordinate clause, not a prepositional phrase. In this case, you use the subject form “whoever” instead of the object form “whomever”. 
+> The first attempt **to build the Panama Canal** ended in failure. 
 
-This causes a lot of confusion. I see this incorrect construction all the time:
+(adjectival infinitive phrase modifying “attempt”)
 
-✘ Incorrect:
+## Adverbs
+You know an infinitive is acting as an adverb if you can put “in order” in front of it and get the same meaning.
 
-> I’m going with **whomever wants** to go.
+> **To win**, you need the highest number of points. 
 
-This is wrong because “whomever” cannot be the subject of the verb “wants”. It would be like saying “Her wants to go” instead of “She wants to go.” You need the subject form “whoever” instead. 
+(adverb modifying “need”) 
 
-Now, let’s make things even more confusing:
+> **In order to win**, you need the highest number of points. 
 
-> I’m going with **whomever I want**.
+(same thing) 
 
-This sentence is correct! Why? Because in this subordinate clause, the subject is “I” and the verb is “want”. It also has an object (“whomever”), which appears at the beginning of the subordinate clause. If you were writing the clause as a sentence, it would be:
+> We nailed plywood on the store windows **to prepare for the storm**. 
 
-> I want whomever.
+(adverbial infinitive phrase modifying “nailed”). 
 
-But when the clause is subordinate, the object comes first, which can make it harder to spot the subject vs. the object:
+> We nailed plywood on the store windows **in order to prepare for the storm**. 
 
-> I’m going with whomever I want.
+(same thing)
 
-Take another example:
+If you look at the noun or adjective examples of infinitives, however, you can’t put “in order” in front of them and get the same meaning. “I love in order to fly” doesn’t have the same meaning as “I love to fly”, so you know in this case the infinitive is not an adverb.
 
-> I’m addressing the letter **to whom it may concern**.
+Note that you use a comma after the adverbial infinitive when it **starts** a sentence:
 
-This is a subordinate clause with a subject (“it”), verb (“may concern”), and object (“whom”). 
+> **To prepare for the storm,** we nailed plywood on the store windows.
 
-Here’s another construction that causes problems all the time:
+But you do not separate the adverbial infinitive from the rest of the sentence if it comes at the **end** of the sentence:
 
-> **Shiraz and I** took the candy. 
+> We nailed plywood on the store windows **to prepare for the storm**.
 
-> She gave the candy to **Shiraz and me**.
+Don’t confuse infinitives with prepositional phrases. In infinitives, “to” is followed by a verb, whereas in prepositions “to” is followed by a noun.
 
-In the first sentence, “Shiraz and I” is the subject of the sentence, so you use the subject form of the pronoun “I”. But in the second sentence, “Shiraz and me” is the object of the preposition “to”, so you use the object form and write “me” instead. You could also say:
+> I want **to go**. 
 
-> She gave **Shiraz and me** the candy.
+(Infinitive - “to” is followed by the verb “go”) 
 
-In this case, “Shiraz and me” is the **indirect object**, so you use the object form “me”. 
+> I went **to the park**. 
 
-People often say “Me and Shiraz took the candy” or “Shiraz and me took the candy”, which are both wrong and make my ears hurt. But it’s even more painful when people try to sound correct and use the subject when they should be using the object, such as “She gave the candy to Shiraz and I”. (No, she didn’t. She gave it to Shiraz and **me**.) 
+(Prepositional phrase - “to” is followed by the noun “(the) park”)
 
-So how can you remember all this? First, identify the subject by asking yourself who or what is doing the action. You will then have a much easier time figuring out which word, if any, is the object. 
-
-For example, in the candy sentence, here’s what’s going on in my head: 
-
-“Okay, she’s giving the candy, so ‘She’ is the subject of the sentence and ‘gave’ is the verb. What did she give? The candy. So that’s the object of the sentence. Now I see a preposition (‘to’), so what follows is either a prepositional phrase or a subordinate clause. I just see nouns, no verbs, so this is a prepositional phrase, which means I need to use the object form ‘me’. The pronouns ‘I’ and ‘me’ always come after the other person (‘Shiraz and me’, never ‘me and Shiraz’), so the sentence is: She gave the candy to Shiraz and me.” 
-## Particles
-Here’s an interesting point that won’t usually affect your writing but is nice to know: sometimes words that look like prepositions are actually part of the verb. These are called **particles**. For example, in the verb “sign in”, “in” is a particle, not a preposition, and is an important part of the verb. Consider the differences in these two sentences:
-
-> Be sure to **sign in** before you continue. 
-
-(“in” is a particle, because it’s a part of the verb “sign in”) 
-
-> The sign **in the office** welcomes visitors. 
-
-(“in” is a preposition that starts the prepositional phrase “in the office”)
-
-The main reason you might care about identifying a particle vs. a preposition is if you’re tempted to move the parts of the sentence around. The particle must not be separated from the verb, whereas the prepositional phrase can be moved. For example, you can say:
-
-> In the office, the sign welcomes visitors.
-
-But you cannot say:
-
-> In before you continue, be sure to sign.
-
-Nor can you say:
-
-> Before you continue, in be sure to sign. 
-
-Even [Yoda](http://www.quickanddirtytips.com/education/grammar/yoda-grammar) doesn’t do this. (Awkward his speech is. Yes. Yes! Yet wise Yoda is.) 
-
-## Summary
-* Prepositional phrases provide extra information such as when, where, and how. 
-* When using pronouns in a prepositional phrase, use the object form of the pronoun (such as “to me”, “with whomever”).
-* When using pronouns in a subordinate clause, be sure to identify the subject and object (if any) in the clause and use the correct form of the pronoun.  
-* Particles are prepositions that are part of the verb (such as “in” in “log in”) and must not be moved to a different spot in the sentence.  
+So that’s all you really need to know about verbals. And now I’m **guessing** (verb) you want **to go** (infinitive) **to the bar** (prepositional phrase) and forget all about them. 
+# Summary
+* Verbals are verbs that act like other parts of speech. 
+* Gerunds end in -ing and are nouns.
+* Present participles end in -ing but are adjectives. 
+* Past participles end in -ed or -en and act as adjectives. 
+* Infinitive start with “to” and can be nouns, adjectives, or adverbs.  
 # Additional resources
-* https://www.englishclub.com/grammar/prepositions-list.htm
-* http://www.chompchomp.com/terms/preposition.htm
-* https://webapps.towson.edu/ows/prepositions.htm
-* http://www.quickanddirtytips.com/education/grammar/yoda-grammar
-## 📘Assignment
-1. Write two sentences with prepositional phrases that include pronouns (don’t use the same preposition in both sentences).
-1. Write two sentences with subordinate clauses that include pronouns (choose two unique subordinate conjunctions that you didn’t use as pronouns in the previous task).
+https://webapps.towson.edu/ows/verbals.html
+# 📘Assignment
+1. Give an example of one sentence using an -ing verb and another sentence using that same word as a gerund, such as “The squirrel is flying” and “I love flying”. 
+1. Give an example of that same word as a present participle, such as “The flying squirrel was cute.”
+1. Give an example of that same word in the past participle form, such as “The flown airplane was out of fuel.”
+1. Give an example of an infinitive used as a noun, an adjective, and an adverb. For example, “I want to win”, “This is our chance to win”, “To win, we must train hard”. 
