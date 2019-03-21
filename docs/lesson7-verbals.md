@@ -26,7 +26,7 @@ A **verbal** is a word formed from a verb that functions as a noun, adjective, o
 * Participles
 * Infinitives
 
-# Gerunds
+## Gerunds
 **Gerunds** end in “-ing” and act as a **noun**:
 
 > **Flying** is my favorite pastime. 
@@ -36,7 +36,7 @@ A **verbal** is a word formed from a verb that functions as a noun, adjective, o
 > I love **running**. 
 
 (“running” is the direct object of the sentence)
-# Participles
+## Participles
 **Participles** act as **adjectives**. There are two types of participles: **present** and **past**. 
 
 **Present participles**, like gerunds, end in **“-ing”**, but they’re used as adjectives, not nouns:
@@ -68,16 +68,16 @@ Don’t confuse past participles with verbs in the passive voice, which start wi
 > The windshield **was cracked**. (verb) 
 
 > The windows **were broken**. (verb)
-# Infinitives
+## Infinitives
 **Infinitives start with “to”** and end with the simple present form of a verb, such as “to fly” and “to crack”. They can act as nouns, adjectives, or adverbs.
-## Nouns
+### Nouns
 > **To live** is **to adjust**. 
 
 > I want **to go**. 
 
 > I love **to fly**.
 
-## Adjectives
+### Adjectives
 > This is the best time **to start**. 
 
 (modifies “time”) 
@@ -86,7 +86,7 @@ Don’t confuse past participles with verbs in the passive voice, which start wi
 
 (adjectival infinitive phrase modifying “attempt”)
 
-## Adverbs
+### Adverbs
 You know an infinitive is acting as an adverb if you can put “in order” in front of it and get the same meaning.
 
 > **To win**, you need the highest number of points. 
@@ -126,15 +126,15 @@ Don’t confuse infinitives with prepositional phrases. In infinitives, “to”
 (Prepositional phrase - “to” is followed by the noun “(the) park”)
 
 So that’s all you really need to know about verbals. And now I’m **guessing** (verb) you want **to go** (infinitive) **to the bar** (prepositional phrase) and forget all about them. 
-# Summary
+## Summary
 * Verbals are verbs that act like other parts of speech. 
 * Gerunds end in -ing and are nouns.
 * Present participles end in -ing but are adjectives. 
 * Past participles end in -ed or -en and act as adjectives. 
 * Infinitive start with “to” and can be nouns, adjectives, or adverbs.  
-# Additional resources
+## Additional resources
 https://webapps.towson.edu/ows/verbals.html
-# 📘Assignment
+## 📘Assignment
 1. Give an example of one sentence using an -ing verb and another sentence using that same word as a gerund, such as “The squirrel is flying” and “I love flying”. 
 1. Give an example of that same word as a present participle, such as “The flying squirrel was cute.”
 1. Give an example of that same word in the past participle form, such as “The flown airplane was out of fuel.”
