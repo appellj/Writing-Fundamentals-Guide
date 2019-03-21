@@ -65,11 +65,11 @@ But shouldn’t it also be “Sam and I” in the second sentence? If you pull o
 Why? Because a prepositional phrase takes an object, not a subject, so you must use the object form “me”. Therefore, “He gave the feedback to me” is the correct sentence, and if you add “Sam and” back in to the sentence, you get “He gave the feedback to Sam and me.”
 
 These little mental tricks of pulling out extra information from the sentence to get down to the core components of subject, verb, and object can be very useful for figuring out whether to use the singular vs. plural of a verb and the subject vs. object of a noun.
-# Summary
+## Summary
 Collective nouns provide a way to refer to a group as a single unit. Typically, use the singular verb form with collective nouns. The exception is when you want to differentiate amongst the members of the group, but because this can be subtle and confusing, it’s usually best to write around this by adding “members of” before the collective noun or “members” after it. 
-# Additional resources
+## Additional resources
 http://www.chompchomp.com/terms/collectivenoun.htm
-# 📘Assignment
+## 📘Assignment
 1. Write two sentences using collective nouns with singular verbs.
 1. Write one sentence using a collective noun with a plural verb, followed by an explanation of why the plural makes sense instead of the singular in this context.
 1. Provide an alternative version of the sentence you wrote in question 2 that avoids using the collective noun as the subject when you want to use a plural verb (e.g., insert “members of” before the collective noun or insert “members” after it).
