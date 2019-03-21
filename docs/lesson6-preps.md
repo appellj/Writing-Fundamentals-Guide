@@ -53,7 +53,7 @@ For example, here are two sentences that use “after”:
 
 (“after” is a subordinate conjunction that starts a subordinate clause)
 
-In both cases, use the same comma rules as described in [Separating a dependent clause from an independent clause](https://github.com/appellj/Writing-Fundamentals-Guide/wiki/Lesson-2:-Using-Commas#separating-a-dependent-clause-from-an-independent-clause). In short, if the prepositional phrase/subordinate clause appears before the main part of the sentence, you insert a comma, whereas you don’t use a comma if it appears at the end of the sentence. (That sentence I just wrote provides examples of both.) Here are more examples:
+In both cases, use the same comma rules as described in [Separating a dependent clause from an independent clause](https://writing-fundamentals-guide.readthedocs.io/en/latest/lesson2-commas/#separating-a-dependent-clause-from-an-independent-clause). In short, if the prepositional phrase/subordinate clause appears before the main part of the sentence, you insert a comma, whereas you don’t use a comma if it appears at the end of the sentence. (That sentence I just wrote provides examples of both.) Here are more examples:
 
 > **After midnight**, I drove. 
 
