@@ -45,14 +45,17 @@ Then go into the details after the intro. Let’s look at an example of a topic 
 > After you enable foo on your server and install the agent on the user’s device, you can run foo from the Admin dashboard when you need to wipe the device.
 
 > **To enable foo on the server:**
+>
 > 1. (instructions)
 > 2. (instructions) 
 
 > **To install the foo agent on a device:**
+>
 > 1. (instructions)
 > 2. (instructions) 
 
 > **To remotely wipe a device:**
+
 > 1. (instructions)
 > 2. (instructions)
 
@@ -68,6 +71,7 @@ is a more informative title than:
 Warnings, gotchas, and prerequisites should appear before you tell them how to do something, never after. For example, imagine the support calls you’d get if you wrote this:
 
 > To delete data:  
+>
 > 1. Navigate to **foo > bar**.
 > 2. Enter your admin code.
 > 3. Click **Delete**.
@@ -80,6 +84,7 @@ Instead, you should write something like this:
 > To delete all your data: 
 
 > **WARNING!** These steps will permanently delete all the data in your system. 
+>
 > 1. Make a backup of your data. For details, see [Making a Backup](#).
 > 2. Navigate to **foo > bar**.
 > 3. Enter your admin code.
@@ -153,6 +158,7 @@ Look at the support queries and questions on user forums to see what people are 
 
 ## Summary
 Our ultimate goal is to reduce support queries, so: 
+
 * Ask good questions up front
 * Structure the content using the inverted pyramid
 * Write simple, accurate, fully tested content that gives information and not just data
@@ -162,6 +168,7 @@ Our ultimate goal is to reduce support queries, so:
 This approach will help ensure the users are successful and the support people are bored.
 
 ## Additional resources
+
 * https://medium.com/@limedaring/five-tips-for-improving-your-technical-writing-and-documentation-47353723c8a7
 * http://www.copyblogger.com/technical-writing/
 * http://www.wikihow.com/Master-Technical-Writing
