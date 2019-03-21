@@ -121,6 +121,7 @@ Commas are very important for communicating clearly. When used correctly, they b
 * http://www.chompchomp.com/terms/subordinateclause.htm
 ## Examples
 ✓ Correct:
+
 * Writers, take every opportunity to learn about commas. (I’m addressing the writers directly.)
 * Writers take every opportunity to learn about commas. (I’m talking about writers in general.)
 * Before configuring the server, users must download the correct version of the JDK. (Dependent clause first, so use a comma and then the independent clause.)
@@ -129,6 +130,7 @@ Commas are very important for communicating clearly. When used correctly, they b
 * The car that is parked in the garage is broken down. (There are two cars, and the one I’m talking about is the one in the garage.)
  
 ✘ Incorrect:
+
 * Writers, are going to learn about commas.
 * Before configuring the server users must download the correct version of the JDK.
 * The server receives the request, sends a response and logs the activity.
