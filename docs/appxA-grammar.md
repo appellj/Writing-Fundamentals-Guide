@@ -1,7 +1,11 @@
 # Appendix A: Grammar and Punctuation Basics
 
 If you need to review any of the basics, such as parts of speech like nouns and verbs and the difference between a comma and a semicolon, this page provides resources to help you fill in the gaps. 
-# The eight basic parts of speech
+
+## Diagramming sentences
+Diagramming can be a useful tool for visual learners to grasp sentence structure and the parts of speech. Some people find that diagramming just makes it all more confusing, though, so skip it if it doesn’t work for you. This article teaches you how to diagram a sentence: https://www.wikihow.com/Diagram-Sentences. 
+
+## The eight basic parts of speech
 * **Nouns** represent people, places, things, or ideas.
   > Dog, computer, Haiti, teacher, dream
 * **Pronouns** are words like he, she, they, it, or who that represent nouns.
@@ -18,7 +22,7 @@ If you need to review any of the basics, such as parts of speech like nouns and 
 * **Prepositions** tell you how nouns in a sentence relate to one another. There are many prepositions.
   > Above, on, in, between, through, to
 
-# Definite and indefinite articles (the, a, an, some)
+## Definite and indefinite articles (the, a, an, some)
 An article is a word that is used before a noun to indicate whether we are referring to a definite entity or indefinite entity.
 
 **Definite articles**: The definite article is the word “the”. It specifies that you are referring to a specific entity.
@@ -159,13 +163,10 @@ With indefinite articles:
 
 > Identity federation is a convenient authentication mechanism.
 
-## Summary
+### Summary
 The definite article "the" refers to a specific object. Indefinite articles ("a" and "an") refer to an unspecified object. 
 
-## Additional references
+### Additional references
 * https://www.grammarly.com/blog/articles/
 * http://www.englishteachermelanie.com/grammar-when-not-to-use-the-definite-article/
 * https://learnenglish.britishcouncil.org/english-grammar/definite-article
-
-# Diagramming sentences
-Diagramming can be a useful tool for visual learners to grasp sentence structure and the parts of speech. Some people find that diagramming just makes it all more confusing, though, so skip it if it doesn’t work for you. This article teaches you how to diagram a sentence: https://www.wikihow.com/Diagram-Sentences. 
