@@ -1,167 +1,171 @@
 # Appendix A: Grammar and Punctuation Basics
 
-In this lesson, we will cover prepositional phrases, how to use pronouns correctly within them, and how to identify when a preposition is actually a particle (and why you might care). 
+If you need to review any of the basics, such as parts of speech like nouns and verbs and the difference between a comma and a semicolon, this page provides resources to help you fill in the gaps. 
+# The eight basic parts of speech
+* **Nouns** represent people, places, things, or ideas.
+  > Dog, computer, Haiti, teacher, dream
+* **Pronouns** are words like he, she, they, it, or who that represent nouns.
+* **Verbs** are action words.
+  > To run, to swim, to fly
+* **Adjectives** are descriptive words that modify nouns.
+  > Blue water, big baby, smelly garbage
+* **Adverbs** are descriptive words that modify verbs, adjectives, and other adverbs.
+  > "Quickly" in "quickly run", "quite" in "quite slowly", and "very" in "very beautiful"
+* **Participles** are words formed from verbs that act like adjectives.
+  > Working farmers, flying birds, flooded basement
+* **Conjunctions** join clauses or words within the same clause.
+  > And, but, or, for, nor, so, yet
+* **Prepositions** tell you how nouns in a sentence relate to one another. There are many prepositions.
+  > Above, on, in, between, through, to
 
-**Note:** It’s infuriating to me that prepositions, pronouns, particles, and participles (which are discussed in the next lesson) all start with “p”, because it makes it very easy to get them mixed up in my head. As you’re reading through this guide, pay close attention to any word that starts with “p” to make sure you know which one we’re discussing.   
-## Prepositions
-A **prepositional phrase** provides additional information such as when, where, and how. It always starts with a **preposition** like one of the following words:
+# Definite and indefinite articles (the, a, an, some)
+An article is a word that is used before a noun to indicate whether we are referring to a definite entity or indefinite entity.
 
-* in
-* of
-* to
-* with
-* on
-* after
-* for
+**Definite articles**: The definite article is the word “the”. It specifies that you are referring to a specific entity.
 
-(For a list of more prepositions, go [here](https://www.englishclub.com/grammar/prepositions-list.htm).)
+**Indefinite articles**: The indefinite articles are the words “a” and “an”. They refer to a general entity.
 
-For example, consider this simple sentence:
+Let’s look at an example:
+> A: James talked to the doctor to learn about his wife’s health condition.  
 
-> I drove.
+> B: James talked to a doctor to learn about his wife’s health condition.
 
-If you want to say **where** you drove, add a prepositional phrase:
+By using the article “the” in sentence A, we are saying that James talked to the specific doctor who is treating his wife. But in sentence B, we have made a general statement to indicate that James talked to a doctor who is not the only doctor available, such as if he stopped the first doctor he saw in the hospital and asked about his wife.
 
-> I drove **to the store**.
+Let’s learn more about definite and indefinite articles.  
+### When to use the indefinite article “an”
+Use “an” before a word beginning with either a vowel (a, e, i, o, u) or a vowel sound (such as a silent “h”).
 
-You could also use a prepositional phrase to say **when** you drove:
+With words beginning with a vowel:
+> An apple a day keeps the doctor away.
 
-> I drove to the store **after midnight**.
+> Bill Gates is an American business magnate.
 
-If you want to say more about **which route** you drove, put the prepositional phrase after the verb “drove”:
+> WSO2 Identity Server is an IAM offering.
 
-> I drove **on highway 101** to the store.
+> You can quickly create and publish an API with WSO2 API Manager.
 
-If you want to say more about **where** the store is located, put the prepositional phrase after the noun “store”:
+With words beginning with a vowel sound:
+> She was an honorable minister.
 
-> I drove to the store **on Broadway**.
+> The code review will begin in an hour.
 
-Notice that you’ve now nested a prepositional phrase within a prepositional phrase, which is perfectly fine. You can use several prepositional phrases to add lots of details: 
+### When to use the indefinite article “a”
+Use “a” before a word beginning with either a consonant (letters other than a, e, i, o, u or silent “h”) or a consonant sound.
 
-> [After midnight], I drove [with Sam] [on highway 101] [to the store] [on Broadway].
+With words beginning with a consonant:
+> Tim Berners Lee is a British computer scientist.
 
-A simple prepositional phrase has just a preposition (after, with, on, to) followed by a noun (midnight, Sam, highway 101, store, Broadway) and any modifiers (e.g., sleepy Sam, busy store). 
+> You can add a XACML policy for fine-grained access control.
 
-If the words following the preposition include a subject and verb, though, the preposition is called a **subordinate conjunction**, and the phrase is actually a **subordinate clause** (also called a “dependent clause”). 
+With words beginning with a consonant sound:
 
-For example, here are two sentences that use “after”:
+> He is a United States senator.
 
-> I drove **after the show**. 
+> Attach a user role to the newly created user.
 
-(“after” is a preposition that starts a prepositional phrase) 
+### When NOT to use indefinite articles:
+Do not use indefinite articles with **uncountable nouns**, which are objects that can’t be counted individually unless a unit of measurement.
 
-> I drove **after Sam fell asleep**. 
+* Incorrect:   Sally gave me a water.
+* Correct:     Sally gave me water.
+* Correct:     Sally gave me a bottle of water.
+* Incorrect: The CTO was concerned about a security.
+* Correct: The CTO was concerned about security.
+* Incorrect: Fill the tables with a data.
+* Correct: Fill the tables with data. (any data)
+* Correct: Fill the tables with the data. (specific data)
+* Correct: Fill the tables with a batch of data. (“batch” is the unit)
 
-(“after” is a subordinate conjunction that starts a subordinate clause)
+### When to use the definite article “the”
+Use the definite article “the” before singular, plural, or uncountable nouns.
 
-In both cases, use the same comma rules as described in [Separating a dependent clause from an independent clause](https://github.com/appellj/Writing-Fundamentals-Guide/wiki/Lesson-2:-Using-Commas#separating-a-dependent-clause-from-an-independent-clause). In short, if the prepositional phrase/subordinate clause appears before the main part of the sentence, you insert a comma, whereas you don’t use a comma if it appears at the end of the sentence. (That sentence I just wrote provides examples of both.) Here are more examples:
+With a singular noun:
+> The pope is visiting Sri Lanka.
 
-> **After midnight**, I drove. 
+With a plural noun:
+> The pizzas are fresh.
 
-(prep. phrase is at the beginning, so insert a comma)
+With an uncountable noun:
+> The water was clean.
 
-> I drove **after midnight**. 
+With acronyms not pronounced as words:
+> The API was throttled out.
 
-(prep. phrase is at the end, so no comma)
+When a country is in plural form:
+> the Philippines, the Bahamas
 
-> **After Sam fell asleep**, I drove. 
+When a country indicates that it is a group of states, islands, etc.:
+> the United States
 
-(subordinate clause is at the beginning, so insert a comma)
+### When NOT to use the definite article
+There are also instances where you should not use the definite article.
 
-> I drove **after Sam fell asleep**. 
+When you are referring to objects in general (countable nouns):
+> Pandas love bamboo.
 
-(subordinate clause. is at the end, so no comma)
-## Pronouns
-In prepositional phrases, the words that come after the preposition make up the object of the preposition. With a subordinate conjunction, however, the words that follow it make up a subordinate clause, which must include (at minimum) a subject and verb. Why does it matter if the pronoun is a preposition or a subordinate conjunction? Let’s look at an example:
+> APIs are allowing enterprises to collaborate with each other by sharing data in a secure manner.
 
-> I’m going with **whomever**. 
+When you are referring to objects in general (uncountable nouns):
+> Music is a global language.
 
-> I’m going with **whoever wants to go**.
+> Did you have breakfast?
 
-In the first sentence, you don’t have a verb after the preposition (“with”), so it’s a prepositional phrase, and the pronoun (“whomever”) that follows the preposition must be an object. This means that if you’re using a pronoun like “whoever”, you have to use the object form “whomever”, not the subject form “whoever”.
+> Recent advances in information technology have led to crucial changes in living standards.
 
-In the second sentence, however, you have a verb (“wants”), so it’s a subordinate clause, not a prepositional phrase. In this case, you use the subject form “whoever” instead of the object form “whomever”. 
+> When referring to a noun with a number
 
-This causes a lot of confusion. I see this incorrect construction all the time:
+> Harry got onto the train from platform 9¾.
 
-✘ Incorrect:
+With acronyms pronounced as words:
+> WSDL is an XML format for describing network services
 
-> I’m going with **whomever wants** to go.
+> UNICEF works across 190 countries and territories to reach the most disadvantaged children and adolescents.
 
-This is wrong because “whomever” cannot be the subject of the verb “wants”. It would be like saying “Her wants to go” instead of “She wants to go.” You need the subject form “whoever” instead. 
+With proper nouns like holidays:
+> Christmas brings cheer.
 
-Now, let’s make things even more confusing:
+With proper nouns like countries:
+> Mary likes to go to Sweden.
 
-> I’m going with **whomever I want**.
+With proper nouns like companies:
+> Sanjiva Weerawarana and Paul Fremantle are co-founders of WSO2.
 
-This sentence is correct! Why? Because in this subordinate clause, the subject is “I” and the verb is “want”. It also has an object (“whomever”), which appears at the beginning of the subordinate clause. If you were writing the clause as a sentence, it would be:
+With proper nouns like universities:
+> Bella graduated from Harvard.
 
-> I want whomever.
+With proper nouns like languages:
+> My brother can speak Mandarin quite fluently.
 
-But when the clause is subordinate, the object comes first, which can make it harder to spot the subject vs. the object:
+With streets, some locations, and some places:
+> I have to go to work tomorrow.
 
-> I’m going with whomever I want.
+> She was a brat when she was in high school.
 
-Take another example:
+With continents, single lakes, or single mountains:
+> I’m going to Europe next month for a QSP.
 
-> I’m addressing the letter **to whom it may concern**.
+When referring to sports:
+> Sherene loves basketball.
 
-This is a subordinate clause with a subject (“it”), verb (“may concern”), and object (“whom”). 
+### Using articles before adjectives
+You can use an article before an adjective that modifies the noun.
 
-Here’s another construction that causes problems all the time:
+With the definite article:
+> WSO2 is the largest open source integration vendor by revenue.
 
-> **Shiraz and I** took the candy. 
+With indefinite articles:
+> WSO2 IS is a uniquely flexible IAM solution.
 
-> She gave the candy to **Shiraz and me**.
-
-In the first sentence, “Shiraz and I” is the subject of the sentence, so you use the subject form of the pronoun “I”. But in the second sentence, “Shiraz and me” is the object of the preposition “to”, so you use the object form and write “me” instead. You could also say:
-
-> She gave **Shiraz and me** the candy.
-
-In this case, “Shiraz and me” is the **indirect object**, so you use the object form “me”. 
-
-People often say “Me and Shiraz took the candy” or “Shiraz and me took the candy”, which are both wrong and make my ears hurt. But it’s even more painful when people try to sound correct and use the subject when they should be using the object, such as “She gave the candy to Shiraz and I”. (No, she didn’t. She gave it to Shiraz and **me**.) 
-
-So how can you remember all this? First, identify the subject by asking yourself who or what is doing the action. You will then have a much easier time figuring out which word, if any, is the object. 
-
-For example, in the candy sentence, here’s what’s going on in my head: 
-
-“Okay, she’s giving the candy, so ‘She’ is the subject of the sentence and ‘gave’ is the verb. What did she give? The candy. So that’s the object of the sentence. Now I see a preposition (‘to’), so what follows is either a prepositional phrase or a subordinate clause. I just see nouns, no verbs, so this is a prepositional phrase, which means I need to use the object form ‘me’. The pronouns ‘I’ and ‘me’ always come after the other person (‘Shiraz and me’, never ‘me and Shiraz’), so the sentence is: She gave the candy to Shiraz and me.” 
-## Particles
-Here’s an interesting point that won’t usually affect your writing but is nice to know: sometimes words that look like prepositions are actually part of the verb. These are called **particles**. For example, in the verb “sign in”, “in” is a particle, not a preposition, and is an important part of the verb. Consider the differences in these two sentences:
-
-> Be sure to **sign in** before you continue. 
-
-(“in” is a particle, because it’s a part of the verb “sign in”) 
-
-> The sign **in the office** welcomes visitors. 
-
-(“in” is a preposition that starts the prepositional phrase “in the office”)
-
-The main reason you might care about identifying a particle vs. a preposition is if you’re tempted to move the parts of the sentence around. The particle must not be separated from the verb, whereas the prepositional phrase can be moved. For example, you can say:
-
-> In the office, the sign welcomes visitors.
-
-But you cannot say:
-
-> In before you continue, be sure to sign.
-
-Nor can you say:
-
-> Before you continue, in be sure to sign. 
-
-Even [Yoda](http://www.quickanddirtytips.com/education/grammar/yoda-grammar) doesn’t do this. (Awkward his speech is. Yes. Yes! Yet wise Yoda is.) 
+> Identity federation is a convenient authentication mechanism.
 
 ## Summary
-* Prepositional phrases provide extra information such as when, where, and how. 
-* When using pronouns in a prepositional phrase, use the object form of the pronoun (such as “to me”, “with whomever”).
-* When using pronouns in a subordinate clause, be sure to identify the subject and object (if any) in the clause and use the correct form of the pronoun.  
-* Particles are prepositions that are part of the verb (such as “in” in “log in”) and must not be moved to a different spot in the sentence.  
-## Additional resources
-* https://www.englishclub.com/grammar/prepositions-list.htm
-* http://www.chompchomp.com/terms/preposition.htm
-* https://webapps.towson.edu/ows/prepositions.htm
-* http://www.quickanddirtytips.com/education/grammar/yoda-grammar
-## 📘Assignment
-1. Write two sentences with prepositional phrases that include pronouns (don’t use the same preposition in both sentences).
-1. Write two sentences with subordinate clauses that include pronouns (choose two unique subordinate conjunctions that you didn’t use as pronouns in the previous task).
+The definite article "the" refers to a specific object. Indefinite articles ("a" and "an") refer to an unspecified object. 
+
+## Additional references
+* https://www.grammarly.com/blog/articles/
+* http://www.englishteachermelanie.com/grammar-when-not-to-use-the-definite-article/
+* https://learnenglish.britishcouncil.org/english-grammar/definite-article
+
+# Diagramming sentences
+Diagramming can be a useful tool for visual learners to grasp sentence structure and the parts of speech. Some people find that diagramming just makes it all more confusing, though, so skip it if it doesn’t work for you. This article teaches you how to diagram a sentence: https://www.wikihow.com/Diagram-Sentences. 
