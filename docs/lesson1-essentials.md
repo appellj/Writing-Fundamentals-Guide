@@ -21,7 +21,7 @@ Developers often create products with a certain audience level in mind, and it c
 Never assume the user has read the introductory material, as they probably landed on that page by doing a web search. So make sure there are links back to the introductory material, definitions, etc. If someone unfamiliar with the product can understand it, you’ve communicated your message clearly.
 
 ## Put the most important information first
-Start with the concepts they need to know (link off for more info), then how to do it, and then additional reference info. This follows the [inverted pyramid](https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)) with "Most Important/Newsworthy" at the top followed by "Important details" in the middle and "Other General Info/Background Info" at the bottom.
+Start with the concepts they need to know (link off for more info), then how to do it, and then additional reference info. This follows the "inverted pyramid" with "Most Important/Newsworthy" at the top followed by "Important details" in the middle and "Other General Info/Background Info" at the bottom.
 
 The first section of the topic should include this information:
 
