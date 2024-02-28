@@ -17,10 +17,8 @@ mkdocs:
 formats: all
 
 # Optionally set the version of Python and requirements required to build your docs
-python:
-  version: "latest"
   
 build:
   os: ubuntu-22.04
   tools:
-    python: "latest"
+    python: "3.12"
